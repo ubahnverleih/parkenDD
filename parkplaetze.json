@@ -1,0 +1,233 @@
+[
+	{
+		"name": "Altmarkt",
+		"lat": 51.05031,
+		"lon": 13.73754,
+		"website": "http://www.dresden.de/freie-parkplaetze/parken/detail?id=TG16",
+		"osmid": "way/32995576"
+	},
+	{
+		"name": "An der Frauenkirche",
+		"lat": 51.05165,
+		"lon": 13.7439,
+		"website": "http://www.dresden.de/freie-parkplaetze/parken/detail?id=TG03",
+		"osmid": "node/357917229"
+	},
+	{
+		"name": "Frauenkirche Neumarkt",
+		"lat": 51.05082,
+		"lon": 13.74174,
+		"website": "http://www.dresden.de/freie-parkplaetze/parken/detail?id=TG13",
+		"osmid": "node/357917225"
+	},
+	{
+		"name": "Haus am Zwinger",
+		"lat": 51.05149,
+		"lon": 13.73584,
+		"website": "http://www.dresden.de/freie-parkplaetze/parken/detail?id=TG02",
+		"osmid": "node/2029615258"
+	},
+	{
+		"name": "Schie\u00dfgasse",
+		"lat": 51.05077,
+		"lon": 13.74460,
+		"website": "http://www.dresden.de/freie-parkplaetze/parken/detail?id=PP01",
+		"osmid": "way/4727481"
+	},
+	{
+		"name": "Taschenbergpalais",
+		"lat": 51.05176,
+		"lon": 13.73530,
+		"website": "http://www.dresden.de/freie-parkplaetze/parken/detail?id=TG01",
+		"osmid": "node/1148785855"
+	},
+	{
+		"name": "Kongresszentrum",
+		"lat": 51.05922,
+		"lon": 13.73050,
+		"website": "http://www.dresden.de/freie-parkplaetze/parken/detail?id=TG12",
+		"osmid": "node/1153814232"
+	},
+	{
+		"name": "Parkhaus Mitte",
+		"lat": 51.05793,
+		"lon": 13.72595,
+		"website": "http://www.dresden.de/freie-parkplaetze/parken/detail?id=PH15",
+		"osmid": "way/25432501"
+	},
+	{
+		"name": "Semperoper",
+		"lat": 51.05553,
+		"lon": 13.73408,
+		"website": "http://www.dresden.de/freie-parkplaetze/parken/detail?id=TG08",
+		"osmid": "node/1148785860"
+	},
+	{
+		"name": "World Trade Center",
+		"lat": 51.04952,
+		"lon": 13.72215,
+		"website": "http://www.dresden.de/freie-parkplaetze/parken/detail?id=TG07",
+		"osmid": "node/281105739"
+	},
+	{
+		"name": "Altmarkt - Galerie",
+		"lat": 51.04951,
+		"lon": 13.73407,
+		"website": "http://www.dresden.de/freie-parkplaetze/parken/detail?id=TG09",
+		"osmid": "node/373091440"
+	},
+	{
+		"name": "Centrum-Galerie",
+		"lat": 51.04547,
+		"lon": 13.73368,
+		"website": "http://www.dresden.de/freie-parkplaetze/parken/detail?id=PH17",
+		"osmid": "node/1382016321"
+	},
+	{
+		"name": "Ferdinandplatz",
+		"lat": 51.04645,
+		"lon": 13.73988,
+		"website": "http://www.dresden.de/freie-parkplaetze/parken/detail?id=PP08",
+		"osmid": "way/25700702"
+	},
+	{
+		"name": "Karstadt",
+		"lat": 51.04669,
+		"lon": 13.73801,
+		"website": "http://www.dresden.de/freie-parkplaetze/parken/detail?id=TG04",
+		"osmid": "node/2798755412"
+	},
+	{
+		"name": "Reitbahnstra\u00dfe",
+		"lat": 51.04334,
+		"lon": 13.73279,
+		"website": "http://www.dresden.de/freie-parkplaetze/parken/detail?id=PP10",
+		"osmid": "way/16187010"
+	},
+	{
+		"name": "Wiener Platz\/Hbf.",
+		"lat": 51.04187,
+		"lon": 13.73155,
+		"website": "http://www.dresden.de/freie-parkplaetze/parken/detail?id=TG11",
+		"osmid": "node/1153814225"
+	},
+	{
+		"name": "W\u00f6hrl - Florentinum",
+		"lat": 51.04449,
+		"lon": 13.73772,
+		"website": "http://www.dresden.de/freie-parkplaetze/parken/detail?id=TG05",
+		"osmid": "node/247953901"
+	},
+	{
+		"name": "City  Center",
+		"lat": 51.03855,
+		"lon": 13.73151,
+		"website": "http://www.dresden.de/freie-parkplaetze/parken/detail?id=TG06",
+		"osmid": "node/88092286"
+	},
+	{
+		"name": "Lindengasse",
+		"lat": 51.04151,
+		"lon": 13.74126,
+		"website": "http://www.dresden.de/freie-parkplaetze/parken/detail?id=PP07",
+		"osmid": "way/24882173"
+	},
+	{
+		"name": "Pirnaischer Platz",
+		"lat": 51.04785,
+		"lon": 13.74326,
+		"website": "http://www.dresden.de/freie-parkplaetze/parken/detail?id=PP02",
+		"osmid": "way/4844352"
+	},
+	{
+		"name": "Terrassenufer",
+		"lat": 51.05357,
+		"lon": 13.74688,
+		"website": "http://www.dresden.de/freie-parkplaetze/parken/detail?id=PP12",
+		"osmid": "way/243667670"
+	},
+	{
+		"name": "Hauptstra\u00dfe",
+		"lat": 51.06057,
+		"lon": 13.74490,
+		"website": "http://www.dresden.de/freie-parkplaetze/parken/detail?id=PH14",
+		"osmid": "way/23125192"
+	},
+	{
+		"name": "Sarrasanistra\u00dfe",
+		"lat": 51.05776,
+		"lon": 13.74493,
+		"website": "http://www.dresden.de/freie-parkplaetze/parken/detail?id=PP15",
+		"osmid": "way/26371673"
+	},
+	{
+		"name": "Theresienstra\u00dfe",
+		"lat": 51.06314,
+		"lon": 13.74208,
+		"website": "http://www.dresden.de/freie-parkplaetze/parken/detail?id=PP16",
+		"osmid": "way/237169181"
+	},
+	{
+		"name": "Wiesentorstra\u00dfe",
+		"lat": 51.05706,
+		"lon": 13.74339,
+		"website": "http://www.dresden.de/freie-parkplaetze/parken/detail?id=PP14",
+		"osmid": "way/233383506"
+	},
+	{
+		"name": "Flutrinne",
+		"lat": 51.06752,
+		"lon": 13.71951,
+		"website": "http://www.dresden.de/freie-parkplaetze/parken/detail?id=PP22",
+		"osmid": "way/40512388"
+	},
+	{
+		"name": "Messegel\u00e4nde",
+		"lat": 51.06911,
+		"lon": 13.71218,
+		"website": "http://www.dresden.de/freie-parkplaetze/parken/detail?id=PP21",
+		"osmid": "way/230879896"
+	},
+	{
+		"name": "B\u00fchlau",
+		"lat": 51.06065,
+		"lon": 13.85426,
+		"website": "http://www.dresden.de/freie-parkplaetze/parken/detail?id=PR01",
+		"osmid": "way/217992487"
+	},
+	{
+		"name": "Cossebaude",
+		"lat": 51.08521,
+		"lon": 13.63258,
+		"website": "http://www.dresden.de/freie-parkplaetze/parken/detail?id=PR05",
+		"osmid": "way/179569627"
+	},
+	{
+		"name": "Kaditz",
+		"lat": 51.08133,
+		"lon": 13.69097,
+		"website": "http://www.dresden.de/freie-parkplaetze/parken/detail?id=PR03",
+		"osmid": "way/4499710"
+	},
+	{
+		"name": "Langebr\u00fcck",
+		"lat": 51.12714,
+		"lon": 13.84038,
+		"website": "http://www.dresden.de/freie-parkplaetze/parken/detail?id=PR08",
+		"osmid": "node/1533710838"
+	},
+	{
+		"name": "Pennrich",
+		"lat": 51.04050,
+		"lon": 13.62639,
+		"website": "http://www.dresden.de/freie-parkplaetze/parken/detail?id=PR04",
+		"osmid": "way/149763267"
+	},
+	{
+		"name": "Prohlis",
+		"lat": 50.99958,
+		"lon": 13.79952,
+		"website": "http://www.dresden.de/freie-parkplaetze/parken/detail?id=PR02",
+		"osmid": "way/10303916"
+	}
+]
